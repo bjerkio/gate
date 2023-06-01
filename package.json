@@ -2,6 +2,7 @@
   "private": true,
   "name": "gate",
   "version": "0.0.0",
+  "packageManager": "pnpm@8.6.0",
   "scripts": {
     "build": "docusaurus build",
     "clear": "docusaurus clear",
